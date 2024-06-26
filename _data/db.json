@@ -22,18 +22,11 @@
       "user_email": "peach@netninja.dev"
     },
     {
-      "id": "2071",
-      "title": "New ticket",
-      "body": "Idk idk idk",
-      "priority": "medium",
-      "user_email": "noor@gmail.com"
-    },
-    {
-      "id": "9aee",
-      "title": "another new ticket",
-      "body": "idk idk",
-      "priority": "high",
-      "user_email": "noor@gmail.com"
+      "id": "84fe",
+      "title": "TESTING",
+      "body": "blah blah blah",
+      "user_email": "nfmo@gmail.com",
+      "priority": "high"
     }
   ]
 }
